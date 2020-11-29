@@ -1,5 +1,5 @@
 # openssl_1.1.1_ubuntu_20.04_amd64.deb
-ubuntu , 20.04 , rebuild test , amd64.deb , package
+ubuntu , 20.04 , rebuild test , amd64.deb , package , скорость оболочки
 
 Deb package: https://github.com/Griggorii/openssl_1.1.1_ubuntu_20.04_amd64.deb/releases/tag/openssl_1.1.1
 
